@@ -197,4 +197,4 @@ Please see the [security policy][security-policy].
 [image]: https://www.django-rest-framework.org/img/quickstart.png
 
 [docs]: https://www.django-rest-framework.org/
-[security-policy]: https://github.com/encode/django-rest-framework/security/policy
+
